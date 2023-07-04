@@ -1,0 +1,19 @@
+INTRO LẬP TRÌNH  
+
+cấu thành máy tính -> hướng đối tượng trong lập trình -> để phân nhánh code tối ưu để xử lí, phân tầng chuẩn xác.
+
+react native ??
+
+flutter
+
+focus-> web
+ ->> CRM, ERP 
+
+
+* tự học -> logic (naming convention) -> teamwork 
+
+* FE: ?
+* BE:?
+
+* Spring 
+*react 
